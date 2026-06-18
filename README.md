@@ -57,6 +57,17 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+
+Incident Input
+     ↓
+Classification Engine
+     ↓
+Severity Assignment
+     ↓
+Escalation Routing
+     ↓
+Runbook + Customer Update + RCA
+
 This tool simulates that workflow. It takes an incident description, detects whether the issue is related to patient safety, integration failure, latency, call delivery, transcript ingestion, or AI response quality. Then it generates a severity level, escalation team, operational runbook, customer update, 5 Whys RCA, and preventive actions.
 
 The main value is that it helps reduce confusion during incidents and gives operations teams a structured process to move from detection to resolution.
