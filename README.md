@@ -1,6 +1,6 @@
 # Healthcare AI Incident Triage & Runbook Generator
 
-This is a Streamlit operations tool created for a Healthcare AI / Hippocratic AI Operations interview context.
+This is a Streamlit operations tool created for a Hippocratic AI Operations team.
 
 ## What It Does
 
