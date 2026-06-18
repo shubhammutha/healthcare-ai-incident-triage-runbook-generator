@@ -57,7 +57,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-**Scope**
+## Scope
 
 Current version uses rule-based classification.
 Future version can use LLM-based classification.
